@@ -1,0 +1,158 @@
+body{
+  background: #d3d3d3;
+}
+div{
+  background: white;
+  border-radius: 10px;
+  margin: 5% 5% 5% 5%;
+  padding: 1% 1% 1% 1%;
+}
+.banner{
+  background: black;
+  border-radius: 10px;
+  margin: 5% 5% 5% 5%;
+  padding: 1% 2% 2% 2%;
+}
+
+td{
+  background: white;
+  margin: 1% 1% 1% 1%;
+  padding: 0% 1% 0% 1%;
+  border-radius: 10px;
+  width:20%;
+  height: 30px;
+  text-align: center;
+}
+h1{
+  background: black;
+  border-radius: 10px;
+  font-size:150%;
+  color: gold;
+  font-family: monospace;
+  margin: 2% 0% 0% 0%;
+  text-align: left;
+}
+.lose{
+  background: red;
+  border-radius: 10px;
+  margin: 5% 5% 5% 5%;
+  padding: 1% 2% 2% 2%;
+  font-size:250%;
+  color: black;
+}
+.win{
+  background: green;
+  border-radius: 10px;
+  margin: 5% 5% 5% 5%;
+  padding: 1% 2% 2% 2%;
+  font-size:250%;
+  color: black;
+}
+h2{
+  background: white;
+  border-radius: 10px;
+  font-size:180%;
+  color: black;
+  font-family: monospace;
+  margin: 2% 0% 0% 0%;
+  text-align: center;
+}
+input{
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width:100%;
+  height: 35px;
+  text-align: center;
+}
+.b{
+  background: gold;
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width:80%;
+  height: 35px;
+}
+.e{
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width:100%;
+  height: 35px;
+  text-align: center;
+}
+.pw{
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width:100%;
+  height: 35px;
+  text-align: center;
+}
+.n{
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width:100%;
+  height: 35px;
+  text-align: center;
+}
+form{
+  background: white;
+  border-radius: 10px;
+  margin: 5% 5% 5% 5%;
+  padding: 2% 2% 2% 2%;
+  width: 80%;
+  text-align:center;
+}
+p{
+  font-size:100%;
+  font-family: monospace;
+  margin: 4% 2% 4% 2%;
+}
+.p2{
+  font-size:80%;
+  font-family: monospace;
+  margin: 4% 2% 4% 5%;
+}
+.ess{
+  font-family: monospace;
+  text-align:center;
+}
+li{
+  font-size:150%;
+  font-family: monospace;
+  margin: 8% 2% 8% 2%;
+}
+.int{
+  font-size:98%;
+  color: gold;
+  font-family: monospace;
+  margin: 0% 0% 1% 0%;
+  text-align: center;
+}
+a{
+  background: gold;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 2% 2% 2% 2%;
+  margin: 5% 2% 5% 2%;
+}
+a:active{
+  background: white;
+  color: black;
+  border-radius: 10px;
+  padding: 2% 2% 2% 2%;
+  margin: 5% 2% 5% 2%;
+}
+.a_img{
+  background: white;
+  margin: 1% 1% 1% 1%;
+}
+span{
+  font-size:150%;
+  font-weight: 700;
+  background: white;
+  color: black;
+  border-radius: 10px;
+  padding: 0% 1% 0% 1%;
+}
+.par{
+margin: 5% -5% 5% 2%;
+}
