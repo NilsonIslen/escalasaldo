@@ -15,12 +15,12 @@ include "php/us/$id2/st.php";
 include "php/class_user.php";
 update_user($id2,$e,$s,$k3);
 $to = "$e";
-$subject = "link zona privada ESSCALA";
+$subject = "Acceso escalasaldo ";
 $message = "Utiliza los siguientes datos para ingresar a tu cuenta en esscala: 
 \n
 id: $id2 clave: $k4
 \n
-https://esscala.space
+https://escalasaldo.com
 ";
 mail($to, $subject, $message);
 
