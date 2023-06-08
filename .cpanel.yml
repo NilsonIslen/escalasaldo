@@ -3,3 +3,4 @@ deployment:
     - export DEPLOYPATH=/home/escalas2/public_html/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
+    - /bin/cp html/head.html $DEPLOYPATH
