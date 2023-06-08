@@ -40,7 +40,7 @@ echo "<p><a href='index.php'> Aceptar
 </div>";
 
 $to = "$e3";
-$subject = "Transferencia esscala";
+$subject = "Transferencia ESS";
 $message = "Enviaste $a fichas a la cuenta $d: 
 \n
 Equivalentes $date :
@@ -51,12 +51,12 @@ USDT $usdts0
 \n
 COP $cops0
 \n
-https://esscala.space
+https://escalasaldo.com
 \n";
 mail($to, $subject, $message);
 
 $to = "$e";
-$subject = "Transferencia esscala";
+$subject = "Transferencia ESS";
 $message = "Recibiste $a fichas de la cuenta $u2.
 \n
 Equivalentes $date :
@@ -67,7 +67,7 @@ USDT $usdts0
 \n
 COP $cops0
 \n
-https://esscala.space
+https://escalasaldo.com
 \n";
 mail($to, $subject, $message);
 exit();
@@ -98,7 +98,7 @@ echo "<p><a href='index.php'> Aceptar
 </p>
 </div>";
 $to = "$e3";
-$subject = "Transferencia esscala";
+$subject = "Transferencia ESS";
 $message = "Enviaste $a ESS:
 \n
 Nueva cuenta
@@ -113,7 +113,7 @@ USDT $usdts0
 \n
 COP $cops0
 \n
-https://esscala.space
+https://escalasaldo.com
 \n ";
 mail($to, $subject, $message);
   
