@@ -8,3 +8,8 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/escalas2/public_html/
     - /bin/cp -R html $DEPLOYPATH
+
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/escalas2/public_html/
+    - /bin/cp -R php $DEPLOYPATH
