@@ -6,7 +6,7 @@ $f2=file_exists("php/us/$fi/st.php");
 if(!$f2){echo "<p>$fi</p>";}
 if($f2){include "php/us/$fi/st.php";
 if($s==0 or $s=="")
-{echo "<p>$fi</p>";}
+{echo "<p>$fi</p><hr>";}
 }
 $fi++;
 endwhile;
