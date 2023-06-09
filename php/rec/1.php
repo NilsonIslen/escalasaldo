@@ -1,6 +1,6 @@
 <?php 
 $event=1; 
-$aim=8; 
-$prize=30;
+$aim=100; 
+$prize=200;
 $state='jugando'; 
 ?> 
