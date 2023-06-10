@@ -137,7 +137,7 @@ $k3=md5($k2);
 include 'php/index.php';
 pg_us($u2,$k3);
 }
-echo "<div>";
+echo "<div class='app'>";
 include "html/index.html";
 echo "</div>";
 

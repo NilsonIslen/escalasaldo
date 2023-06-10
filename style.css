@@ -7,6 +7,12 @@ div{
   margin: 5% 5% 5% 5%;
   padding: 1% 1% 1% 1%;
 }
+.app{
+  background-image: img/escdor.jpg;
+  border-radius: 10px;
+  margin: 5% 5% 5% 5%;
+  padding: 1% 1% 1% 1%;
+}
 .banner{
   background: black;
   border-radius: 10px;
