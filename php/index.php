@@ -26,7 +26,7 @@ include 'html/null.html';
 echo "<hr>";
 include 'html/transfer.html';
 echo "</div>";
-echo "<div>
+echo "<div class='app'>
 <table>
 <tr><td>
 <a href='index.php?ac=luk'>
